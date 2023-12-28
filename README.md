@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ismail Muhammad
-- 👀 I’m interested in Astronomy, rockets, AI, IOT, and using tech in medical fields
+- 👀 I’m interested in Codding, Astronomy, rockets, AI, IOT, and applying tech to medical fields.
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 You can reach me on my website: https://ismail-muhammad123.github.io/pages/contact.html
